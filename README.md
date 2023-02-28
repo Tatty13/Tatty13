@@ -1,8 +1,10 @@
 <div style="background: #0d1117; padding: 0 40px 30px">
-<header align="center">
-  <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" style="width: 60%; max-width: 400px; max-height: 200px;">
-  <h1 style="margin: 0; font-weight: 600;">I'm Tatiana</h1>
-  <a href="https://git.io/typing-svg">
+<header>
+  <div align="center">
+    <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!">
+  <div>
+  <h1 style="font-weight: 600;">I'm Tatiana</h1>
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Open-sans&color=B8DEE9&repeat=false&width=460&lines=and+I'm+a+beginner+frontend+developer" alt="Typing SVG" />
   </a>
 </header>
@@ -10,10 +12,10 @@
 <main>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/tattyiva" target="_blank"  style="text-decoration: none; outline: none;">
+    <a href="https://www.linkedin.com/in/tattyiva" target="_blank" style="text-decoration: none; outline: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank"  style="text-decoration: none; outline: none;">
+    <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank" style="text-decoration: none; outline: none;">
       <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
     </a>
     <a href="https://t.me/tattyiva" target="_blank" style="text-decoration: none; outline: none;">
@@ -30,16 +32,14 @@
 - 😃 I would like people to have a positive experience with the web interfaces I create.
 - 🤝 I want to work in a team of professionals who are really passionate about their business.
 
-
 ---
 
 ## My Stack 🛠️
 
-<div style="display: flex; gap: 5px; padding: 10px 0 10px" >
-  <img src="  https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
