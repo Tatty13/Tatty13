@@ -11,10 +11,10 @@
 <main>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/tattyiva" target="_blank" style="text-decoration: none; outline: none;">
+    <a href="https://www.linkedin.com/in/tattyiva" target="_blank"  style="text-decoration: none; outline: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank" style="text-decoration: none; outline: none;">
+    <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank"  style="text-decoration: none; outline: none;">
       <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
     </a>
     <a href="https://t.me/tattyiva" target="_blank" style="text-decoration: none; outline: none;">
@@ -31,14 +31,16 @@
 - 😃 I would like people to have a positive experience with the web interfaces I create.
 - 🤝 I want to work in a team of professionals who are really passionate about their business.
 
+
 ---
 
 ## My Stack 🛠️
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+<div style="display: flex; gap: 5px; padding: 10px 0 10px" >
+  <img src="  https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
