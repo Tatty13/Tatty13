@@ -67,6 +67,34 @@
 
 ---
 
+## Projects
+
+  <a href="https://github.com/Tatty13/how-to-learn" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn-upd.jpg?raw=true" title="How to learn" alt="How to learn" width="320"/>
+  </a>
+
+  <a href="https://github.com/Tatty13/russian-travel" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/travel.jpg" title="Russian Travel" alt="Russian Travel" width="320"/>
+  </a>
+
+  <a href="https://github.com/Tatty13/mesto" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/mesto-upd.jpg" title="Mesto" alt="Mesto" width="320"/>
+  </a>
+
+  <a href="https://github.com/Tatty13/kuda-go" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/where-i-will-go.gif?raw=true" title="Where I will go" alt="Where I will go" width="320"/>
+  </a>
+
+  <a href="https://github.com/Tatty13/cssMemSlider" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/mem-slider-upd.jpg?raw=true" title="CSS Mem Slider" alt="CSS Mem Slider" width="320"/>
+  </a>
+
+  <a href="https://github.com/Tatty13/eldritch-codejam" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="320"/>
+  </a>
+
+---
+
 ## Some Stats 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatty13&show_icons=true&count_private=true&theme=rose_pine&bg_color=191724BD)
