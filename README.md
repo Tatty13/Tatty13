@@ -4,7 +4,7 @@
   <div>
   <h1>I'm Tatiana</h1>
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Open-sans&color=B8DEE9&repeat=false&width=460&lines=and+I'm+a+beginner+frontend+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Open-sans&color=B8DEE9&repeat=false&width=404&lines=and+I'm+a+beginner+frontend+developer" alt="Typing SVG" />
   </a>
 </header>
 
