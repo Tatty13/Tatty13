@@ -74,7 +74,7 @@
   </a>
 
   <a href="https://github.com/Tatty13/russian-travel" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/travel.jpg" title="Russian Travel" alt="Russian Travel" width="320"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/russian-travel-upd.jpg?raw=true" title="Russian Travel" alt="Russian Travel" width="320"/>
   </a>
 
   <a href="https://github.com/Tatty13/mesto" target="_blank">
@@ -90,7 +90,7 @@
   </a>
 
   <a href="https://github.com/Tatty13/eldritch-codejam" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="320"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd2.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="320"/>
   </a>
 
 ---
