@@ -4,7 +4,7 @@
   <div>
   <h1>I'm Tatiana</h1>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=430&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=410&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
 </header>
 
 <main>
