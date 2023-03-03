@@ -3,9 +3,8 @@
     <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" width="250" height="200">
   <div>
   <h1>I'm Tatiana</h1>
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Open-sans&color=B8DEE9&repeat=false&width=410&lines=and+I'm+a+beginner+frontend+developer" alt="Typing SVG" />
-  </a>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=430&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
 </header>
 
 <main>
