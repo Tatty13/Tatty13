@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" width="250" height="200">
   <h1>I'm Tatiana</h1>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=408&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=500&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
   
 </div>
 
