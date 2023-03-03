@@ -1,25 +1,26 @@
-<header>
-  <div align="center">
-    <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" width="250" height="200">
-  <div>
+<div align="center">
+  <img src="https://media1.giphy.com/media/kFUezYvRCwweoRfc6f/giphy.gif?cid=ecf05e47mol24l2a0s6zx10q9717nnqpkpwfnumxn3l59kxp&rid=giphy.gif&ct=s" alt="Hi there!" width="250" height="200">
   <h1>I'm Tatiana</h1>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=410&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
-</header>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=408&lines=and+I'm+a+beginner+frontend+developer)](https://git.io/typing-svg)
+  
+</div>
 
-<main>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open-sans&weight=480&pause=&color=B8DEE9&center=true&repeat=false&width=430&lines=and+I'm+a+beginner+frontend+developer" alt="Typing SVG" /></a>
+</div>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/tattyiva" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank">
-      <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
-    </a>
-    <a href="https://t.me/tattyiva" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/tattyiva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank">
+    <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
+  </a>
+  <a href="https://t.me/tattyiva" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -62,12 +63,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
 </div>
 
-</main>
 
 ---
 
 ## Projects
 
+<div align="center">
   <a href="https://github.com/Tatty13/how-to-learn" target="_blank">
     <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn-upd.jpg?raw=true" title="How to learn" alt="How to learn" width="320"/>
   </a>
@@ -91,7 +92,8 @@
   <a href="https://github.com/Tatty13/eldritch-codejam" target="_blank">
     <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd2.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="320"/>
   </a>
-
+</div>
+  
 ---
 
 ## Some Stats 📊
