@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/tattyiva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/rsschool_a6705e2ee8475590" target="_blank">
+  <a href="https://www.codewars.com/users/Tatty13" target="_blank">
     <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
   </a>
   <a href="https://t.me/tattyiva" target="_blank">
