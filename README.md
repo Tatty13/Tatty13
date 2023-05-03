@@ -100,4 +100,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatty13&layout=compact&theme=rose_pine&bg_color=191724BD)](https://github.com/anuraghazra/github-readme-stats)
 
+![Codewars](https://github.r2v.ch/codewars?user=Tatty13&name=true&theme=nightowl)
+
 ---
