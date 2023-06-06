@@ -77,7 +77,7 @@
     <img src="https://github.com/Tatty13/imgs-for-README/blob/main/russian-travel-upd.jpg?raw=true" title="Russian Travel" alt="Russian Travel" width="320"/>
   </a>
 
-  <a href="https://github.com/Tatty13/mesto" target="_blank">
+  <a href="https://github.com/Tatty13/react-mesto-auth" target="_blank">
     <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/mesto-upd.jpg" title="Mesto" alt="Mesto" width="320"/>
   </a>
 
