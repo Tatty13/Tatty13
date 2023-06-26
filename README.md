@@ -98,7 +98,7 @@
   </a>
 
   <a href="https://rolling-scopes-school.github.io/tatty13-JSFE2022Q3/gem-puzzle" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/gem-puzzle.jpg?raw=true" title="Gem puzzle" alt="Gem puzzle" width="320"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/gem-puzzle.png?raw=true" title="Gem puzzle" alt="Gem puzzle" width="320"/>
   </a>
 
   <a href="https://rolling-scopes-school.github.io/tatty13-JSFE2022Q3/online-zoo/pages/main" target="_blank">
