@@ -70,31 +70,31 @@
 
 <div align="center">
   <a href="https://github.com/Tatty13/how-to-learn" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn-upd.jpg?raw=true" title="How to learn" alt="How to learn" width="49.5%"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn-upd.jpg?raw=true" title="How to learn" alt="How to learn" width="320"/>
   </a>
   
   <a href="https://github.com/Tatty13/russian-travel" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/russian-travel-upd.jpg?raw=true" title="Russian Travel" alt="Russian Travel" width="49.5%"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/russian-travel-upd.jpg?raw=true" title="Russian Travel" alt="Russian Travel" width="320"/>
   </a>
   
   <a href="https://github.com/Tatty13/react-mesto-auth" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/mesto-upd.jpg" title="Mesto" alt="Mesto" width="49.5%"/>
+    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/mesto-upd.jpg" title="Mesto" alt="Mesto" width="320"/>
   </a>
 
   <a href="https://github.com/Tatty13/kuda-go" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/where-i-will-go.gif?raw=true" title="Where I will go" alt="Where I will go" width="49.5%"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/where-i-will-go.gif?raw=true" title="Where I will go" alt="Where I will go" width="320"/>
   </a>
 
-  <a href="https://github.com/Tatty13/movies-explorer-frontend" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/diploma-1.png?raw=true" title="Movie Explorer" alt="Movie Explorer" width="99.5%"/>
+   <a href="https://github.com/Tatty13/movies-explorer-frontend" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/diploma-upd.png?raw=true" title="Movie Explorer" alt="Movie Explorer" width="320"/>
   </a>
 
   <a href="https://github.com/Tatty13/cssMemSlider" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/mem-slider-upd.jpg?raw=true" title="CSS Mem Slider" alt="CSS Mem Slider" width="49.5%"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/mem-slider-upd.jpg?raw=true" title="CSS Mem Slider" alt="CSS Mem Slider" width="320"/>
   </a>
 
   <a href="https://github.com/Tatty13/eldritch-codejam" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd2.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="49.5%"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd2.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="320"/>
   </a>
 </div>
   
