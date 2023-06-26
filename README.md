@@ -96,6 +96,14 @@
   <a href="https://github.com/Tatty13/eldritch-codejam" target="_blank">
     <img src="https://github.com/Tatty13/imgs-for-README/blob/main/eldritch-upd2.jpg?raw=true" title="Eldritch Horror" alt="Eldritch Horror" width="320"/>
   </a>
+
+  <a href="https://rolling-scopes-school.github.io/tatty13-JSFE2022Q3/gem-puzzle" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/gem-puzzle.jpg?raw=true" title="Gem puzzle" alt="Gem puzzle" width="320"/>
+  </a>
+
+  <a href="https://rolling-scopes-school.github.io/tatty13-JSFE2022Q3/online-zoo/pages/main" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/pet-story.jpg?raw=true" title="Online Zoo" alt="Online Zoo" width="320"/>
+  </a>
 </div>
   
 ---
