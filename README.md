@@ -104,6 +104,10 @@
   <a href="https://rolling-scopes-school.github.io/tatty13-JSFE2022Q3/online-zoo/pages/main" target="_blank">
     <img src="https://github.com/Tatty13/imgs-for-README/blob/main/pet-story.jpg?raw=true" title="Online Zoo" alt="Online Zoo" width="320"/>
   </a>
+
+  <a href="https://github.com/Tatty13/react-pizza" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/react-pizza-2.png?raw=true" title="React Pizza" alt="React Pizza" width="320"/>
+  </a>
 </div>
   
 ---
