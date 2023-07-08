@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://github.com/Tatty13/how-to-learn" target="_blank">
-    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn-upd.jpg?raw=true" title="How to learn" alt="How to learn" width="320"/>
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn.gif?raw=true" title="How to learn" alt="How to learn" width="320"/>
   </a>
   
   <a href="https://github.com/Tatty13/russian-travel" target="_blank">
