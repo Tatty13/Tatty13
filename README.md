@@ -122,4 +122,6 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=Tatty13&name=true&theme=nightowl)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTatty13&label=Profile%20views&labelColor=%23151520&countColor=%23263759)
+
 ---
