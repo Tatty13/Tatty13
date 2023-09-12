@@ -118,11 +118,11 @@
 
 ## Some Stats 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatty13&show_icons=true&count_private=true&theme=rose_pine&bg_color=011627&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatty13&show_icons=true&count_private=true&theme=rose_pine&bg_color=011627&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tatty13&theme=rose-pine&background=011627&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatty13&layout=compact&theme=rose_pine&bg_color=011627&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatty13&layout=compact&theme=rose_pine&bg_color=011627&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Tatty13&name=true&theme=nightowl)
 
